@@ -1,5 +1,5 @@
 # OZK-FLYH7T
-Eagle design witdh STM32H750x BGA flycontroller board support arduplot and betaflight
+Eagle design witdh STM32H750x BGA flycontroller board support arduplot and betaflight No tested.
 
 ## Ekran Görüntüleri
 
