@@ -1,5 +1,5 @@
 # OZK-FLYH7T
-Eagle design witdh STM32H750x BGA flycontroller board support arduplot and betaflight No tested.
+Eagle design witdh STM32H750x BGA flycontroller board support arduplot and betaflight tested OK but R12 no connect Vbat and can be add to boot button Just has a TP and Vbus not connected to +5V.
 
 ## Ekran Görüntüleri
 
